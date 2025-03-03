@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://hotmail-id.github.io/berita/sitemap.xml
